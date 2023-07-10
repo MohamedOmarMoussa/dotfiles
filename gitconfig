@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mohamedomarmoussa02@gmail.com
+	name = Mohamed Omar Moussa
